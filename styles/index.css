@@ -1,5 +1,12 @@
 * { 
     box-sizing: content-box;
+
+}
+
+.inicio{
+    border: 2px black solid;
+    height: 15rem;
+    border-radius: 1rem;
 }
 
 
