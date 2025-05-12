@@ -14,10 +14,10 @@
 - 💡 Iluminación bakeada + Light Probes
 - 🎥 [IABT1](https://youtu.be/7WTFYzMmsJU)
 - 🎥 [AIBT2](https://youtu.be/ielzgwGb6vY)
-- 🔦 [Armeria](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Armeria/image-20.png)
-- 🔦 [Armeria](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Armeria/image-21.png)
-- - 🔦 [Armeria](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Armeria/image-24.png)
-- 🔦 [Armeria](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Armeria/image-30.png)
+- 🔦 ![Armeria - 1](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Armeria/image-20.png)
+- 🔦 ![Armeria - 2](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Armeria/image-21.png)
+- 🔦 ![Armeria - 3](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Armeria/image-24.png)
+- 🔦 ![Armeria - 4](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Armeria/image-30.png)
 - 📂 [Repositorio del proyecto](https://github.com/Eldamo24/ProjectAstra)
 
 ---
