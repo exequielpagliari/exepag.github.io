@@ -40,8 +40,18 @@
 - 📌 Engine: Unity
 - 🎨 IA FSM
 - 🔦 Detección de Player, cambio de estado, búsqueda, persecución y ataque.
-- 🎥 [Ver video demo](https://raw.githubusercontent.com/usuario/repositorio/rama/media/demo1.mp4) 
+- 🎥 [Ver video demo](https://youtu.be/ShsNwsw9anc) 
 - 📂 [Repositorio](https://github.com/exequielpagliari/IAProjectUnity)
+
+---
+
+### 🕯️ **Animación y Render en OpenGL con C++**
+> Test de una IA simple de Guardia al estilo MGS
+
+- 📌 Engine: OpenGL
+- 🎨 Renderizado de Malla 3D y animación por Esqueleto
+- 🎥 [Ver video demo](https://youtu.be/cSJRXLtEIX4) 
+
 
 ---
 
