@@ -7,7 +7,7 @@
 ## 🚀 Proyectos Destacados
 
 ### 🧠 **Astra Imperium**
-> Proyecto ARPG, donde la IA debe seguir al jugador, detectar y atacar por sí mismos. Los enemigos son del tipo Mele y Rango, detectan por medio de Raycast. El proyecto está montado en behaviors tree.
+> Proyecto ARPG, donde la IA debe seguir al jugador, detectar y atacar por sí mismos. Los enemigos son del tipo Melee y Rango, detectan por medio de Raycast. El proyecto está montado en behaviors tree.
 
 - 📌 Engine: Unity
 - ⚙️ Mecánicas: IA con Árboles de Comportamiento, Combate cuerpo a cuerpo y a distancia
