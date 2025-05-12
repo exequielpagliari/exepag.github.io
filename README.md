@@ -30,6 +30,18 @@
 ![Pasillo - 3](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Pasillo/Pasillo3.jpg)
 ![Pasillo - 4](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Pasillo/Pasillo4.jpg)
 
+- 🔦 Coliseo Iluminación
+![Coliseo - 1](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/1.png)
+![Coliseo - 2](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/2.jpg)
+![Coliseo - 3](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/3.jpg)
+![Coliseo - 4](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/4.jpg)
+![Coliseo - 5](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/5.jpg)
+![Coliseo - 6](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/6.jpg)
+![Coliseo - 7](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/7.jpg)
+![Coliseo - 8](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/8.jpg)
+![Coliseo - 9](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/9.jpg)
+![Coliseo - 10](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/10.jpg)
+
 - 📂 [Repositorio del proyecto](https://github.com/Eldamo24/ProjectAstra)
 
 ---
@@ -46,7 +58,7 @@
 ---
 
 ### 🕯️ **Animación y Render en OpenGL con C++**
-> Test de una IA simple de Guardia al estilo MGS
+> Aplicación dedicada a renderizado de modelo en formato glft y animación 3D con huesos.
 
 - 📌 Engine: OpenGL
 - 🎨 Renderizado de Malla 3D y animación por Esqueleto
