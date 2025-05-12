@@ -19,28 +19,28 @@
 - 🎥 [Muestra IA con BT con Modelos Finales](https://youtu.be/ielzgwGb6vY)
 
 - 🔦 Armeria Iluminación
-![Armeria - 1](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Armeria/image-20.png)
-![Armeria - 2](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Armeria/image-21.png)
-![Armeria - 3](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Armeria/image-24.png)
-![Armeria - 4](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Armeria/image-30.png)
+[Armeria - 1](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Armeria/image-20.png)
+[Armeria - 2](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Armeria/image-21.png)
+[Armeria - 3](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Armeria/image-24.png)
+[Armeria - 4](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Armeria/image-30.png)
 
 - 🔦 Pasillo Iluminación
-![Pasillo - 1](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Pasillo/Pasillo1.jpg)
-![Pasillo - 2](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Pasillo/Pasillo2.jpg)
-![Pasillo - 3](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Pasillo/Pasillo3.jpg)
-![Pasillo - 4](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Pasillo/Pasillo4.jpg)
+[Pasillo - 1](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Pasillo/Pasillo1.jpg)
+[Pasillo - 2](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Pasillo/Pasillo2.jpg)
+[Pasillo - 3](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Pasillo/Pasillo3.jpg)
+[Pasillo - 4](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Pasillo/Pasillo4.jpg)
 
 - 🔦 Coliseo Iluminación
-![Coliseo - 1](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/1.png)
-![Coliseo - 2](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/2.jpg)
-![Coliseo - 3](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/3.jpg)
-![Coliseo - 4](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/4.jpg)
-![Coliseo - 5](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/5.jpg)
-![Coliseo - 6](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/6.jpg)
-![Coliseo - 7](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/7.jpg)
-![Coliseo - 8](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/8.jpg)
-![Coliseo - 9](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/9.jpg)
-![Coliseo - 10](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/10.jpg)
+[Coliseo - 1](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/1.png)
+[Coliseo - 2](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/2.jpg)
+[Coliseo - 3](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/3.jpg)
+[Coliseo - 4](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/4.jpg)
+[Coliseo - 5](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/5.jpg)
+[Coliseo - 6](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/6.jpg)
+[Coliseo - 7](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/7.jpg)
+[Coliseo - 8](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/8.jpg)
+[Coliseo - 9](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/9.jpg)
+[Coliseo - 10](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Coliseo/10.jpg)
 
 - 📂 [Repositorio del proyecto](https://github.com/Eldamo24/ProjectAstra)
 
