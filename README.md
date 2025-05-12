@@ -57,6 +57,16 @@
 
 ---
 
+
+### 🕯️ **MVP Controlador para First Person Shooter**
+> Controlador de Unity para juego tipo FPS, con Dash, sistema de nado, uso de escalera, sistema de armas, cambio de armas, comportamiento de daño por Raycast e instanciado de Bala.
+
+- 📌 Engine: Unity
+- 🎨 Configuración de controlador FPS
+- 🎥 [Ver video demo](https://youtu.be/ccByrFyj3Zs) 
+
+
+---
 ### 🕯️ **Animación y Render en OpenGL con C++**
 > Aplicación dedicada a renderizado de modelo en formato glft y animación 3D con huesos.
 
@@ -66,6 +76,8 @@
 
 
 ---
+
+
 
 ## 🧰 Herramientas y Tecnologías
 
