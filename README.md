@@ -12,8 +12,12 @@
 - 📌 Engine: Unity
 - ⚙️ Mecánicas: IA con Árboles de Comportamiento, Combate cuerpo a cuerpo y a distancia
 - 💡 Iluminación bakeada + Light Probes
-- 🎥 [IABT1](https://youtu.be/7WTFYzMmsJU)
-- 🎥 [AIBT2](https://youtu.be/ielzgwGb6vY)
+
+#### Muestras de Desarrollo
+
+- 🎥 [Muestra IA con BT con Modelos Provisorios](https://youtu.be/7WTFYzMmsJU)
+- 🎥 [Muestra IA con BT con Modelos Finales](https://youtu.be/ielzgwGb6vY)
+
 - 🔦 Armeria Iluminación
 ![Armeria - 1](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Armeria/image-20.png)
 ![Armeria - 2](https://github.com/exequielpagliari/exepag.github.io/blob/main/Media/LigAstraProject/Armeria/image-21.png)
