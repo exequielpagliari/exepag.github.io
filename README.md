@@ -67,7 +67,7 @@
 ### 🕯️ **Animación y Render en OpenGL con C++**
 > Aplicación dedicada a renderizado de modelo en formato glft y animación 3D con huesos.
 
-- 📌 Engine: OpenGL
+- 📌 Engine: OpenGL + C++
 - 🎨 Renderizado de Malla 3D y animación por Esqueleto
 - 🎥 [Ver video demo](https://youtu.be/cSJRXLtEIX4) 
 
