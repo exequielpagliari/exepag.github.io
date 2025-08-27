@@ -1,4 +1,8 @@
-﻿# 🎮 Exequiel Pagliari – Game Developer
+
+ ---
+layout: home
+title: 🎮 Exequiel Pagliari – Game Developer
+---
 
 ¡Hola! Soy un desarrollador de videojuegos enfocado en Programación, Inteligencia Artificial, Iluminación, OpenGL. Trabajo principalmente con Unity / C# / C++ / OpenGL y me apasiona crear experiencias interactivas que combinan tecnología y narrativa.
 
