@@ -1,5 +1,5 @@
 
- ---
+---
 layout: home
 title: 🎮 Exequiel Pagliari – Game Developer
 ---
